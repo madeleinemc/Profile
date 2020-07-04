@@ -1,2 +1,2 @@
 # Profile
-Classes tutorial from C++ course on Codecademy
+Class to model a dating profile
